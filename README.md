@@ -5,3 +5,5 @@ How to use:
 docker build . -t image_name
 
 docker run -d -p 8080:80 --name container_name image_name 
+
+Go localhost/install.php it's done. 
